@@ -77,7 +77,7 @@
 # References
 1. [State of IoT 2021: Number of connected IoT devices growing 9% to 12.3 billion globally, cellular IoT now surpassing 2 billion](https://iot-analytics.com/number-connected-iot-devices/)
 2. [IoT technology will save eight times the energy it consumes by 2030, new report shows](https://iottechnews.com/news/2021/apr/21/iot-technology-will-save-eight-times-the-energy-it-consumes-by-2030-new-report-shows/)
-3. []()
+3. [Cálculo De Valor De Empresa: Paso A Paso + Fórmulas](https://emprendedoresynegocios.com/valor-de-empresa/)
 4. []()
 5. []()
 6. []()
