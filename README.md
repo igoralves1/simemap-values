@@ -64,7 +64,18 @@
 - 2019: Instalação de 2 placas para teste na UFT
 - 2021
 
-# Cálculo de Custo da SIMEMAP
+# Cálculo de Valor da SIMEMAP:
+
+- *Bienes físicos*: Todo aquello que sea tangible; su valor se estima según su precio.
+- *Bienes humanos*: El personal que compone tu empresa se valora según sus sueldos y sus cargas sociales. Además, sus contribuciones por incapacidad laboral, desempleo o reposo por enfermedad.
+- *Bienes legales*: Es necesario que tomes en cuenta todos los asuntos fiscales y mercantiles pertinentes.
+- *Bienes tecnológicos*: Hoy en día, estar al tanto de las nuevas maquinarias e inventos que puedan ser útiles en tu empresa es necesario. Desde equipos y programas, hasta conexión a Internet y páginas web, todo esto entra en el valor de tu empresa.
+- *Experiencia*: De igual forma, tomar en cuenta los años que has trabajado en tu empresa es fundamental para valorarla. Este es, sin duda, el punto más complicado.
+- Valor agregados ao produto: 
+  - Certificação em Órgãos Reguladores (ANATEL), 
+  - Patentes, 
+  - Certificação Internacionais 
+   - AWS FerrRTOS certificate, 
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
