@@ -76,6 +76,7 @@
   - Patentes, 
   - Certificação Internacionais 
    - AWS FerrRTOS certificate, 
+   - AWS Partner
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
