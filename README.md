@@ -71,7 +71,7 @@
 - *Bienes legales*: Es necesario que tomes en cuenta todos los asuntos fiscales y mercantiles pertinentes.
 - *Bienes tecnológicos*: Hoy en día, estar al tanto de las nuevas maquinarias e inventos que puedan ser útiles en tu empresa es necesario. Desde equipos y programas, hasta conexión a Internet y páginas web, todo esto entra en el valor de tu empresa.
 - *Experiencia*: De igual forma, tomar en cuenta los años que has trabajado en tu empresa es fundamental para valorarla. Este es, sin duda, el punto más complicado.
-- Valor agregados ao produto: 
+- Valor agregados ao produto/empresa: 
   - Certificação em Órgãos Reguladores (ANATEL), 
   - Patentes, 
   - Certificação Internacionais 
