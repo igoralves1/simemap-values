@@ -54,15 +54,63 @@
   - Monitoramento/Controle de Energia
 
 
-# SIMEMAP Milestones
+# SIMEMAP - Milestones
 - 2010: Doutorado de MArcus
 - 2014: Abertura da empresa
 - ...
+- Marcus convida Alisson/Joaquim para se unir ao grupo de desenvolvimenro de placas
 - 2017: Instalação de X placas de teste (Porta, Janela, Condicionador de Ar) no IFTO 
-- 2018: SIMEMAP vai para o cloud AWS
+  - Estaca tecnologica de software: React.JS/PHP(Raw)/MySql
+- 2018: SIMEMAP vai para o cloud da AWS. Marcus convida Igor para dar suporte no desenvolvimento da tecnologia AWS Cloud.
+  - Encripting data trough X.509 certificate
+  - Utilização de monolito PHP/Laravel no back/front-end
+  - Using Flutter as APP Mobile software
+  - Utilização de MongoDB como recurso principal de logs Storage
+  - Utilização de AWS - API Gateway / AWS - Lambdas 
+  - Utilização de AWS - RDS / AWS - Dynamo
 - 2019: Instalação de alguns dispositivos de teste no condomínio Diamante do Lago
-- 2019: Instalação de 2 placas para teste na UFT
-- 2021
+  - 2019: Instalação de 2 placas para teste na UFT
+- 2020:
+  - Implementação de LORA (SIMEMAP sends ebcripted data to the cloud trough LORA 1 year before AWS to deploy AWS-LORA )
+  - 
+- 2021:
+  - Implementação de AWS GreenGrass
+  - Marcus CEO recebe Certificado AWS Practioner
+- 2022:
+  - 
+
+# SIMEMAP OUR TECH STACK
+
+## Hardware
+- AWS FreeRTOS
+- RaspberyPi/Computer + AWS GreeGrass Docker
+  - Docker PostGreSql
+  - Docker REDIS
+  - Docker MongoDB
+  - Local Lambdas (Free)
+  - Local (Internal/External) Storage (Micro-SSD, SSD/M2.SSD, HD)
+  - Docker HADOOP Cluster for Local Data-Lakes
+  - Stream Manager
+- WiFi ...
+- WiFi XXX (1.5 Km range)
+- LORA
+  - >Radio frequency bands like EU433 (433.05-434.79 MHz) and EU863-870 (863–870/873 MHz) in Europe; AU915-928/AS923-1 (915–928 MHz) in Australia; US902-928 (902–928 MHz) in North America; IN865-867 (865–867 MHz) in India; AU915-928/AS923-1 and EU433 Southeast Asia; and 2.4GHz worldwide
+- BT - BluetTooth
+- BLE - BluetTooth Low Energy
+- Marcus completa
+
+## Software/Cloud
+- AWS Cloud
+- AWS IoT
+  - AWS IoT-Core (MQTT)
+  - M 
+- AWS-IoT Core
+- AWS S3
+- AWS DynamoDb
+- Mobile APP: Flutter
+
+
+
 
 # Cálculo de Valor da SIMEMAP:
 
