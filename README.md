@@ -54,30 +54,39 @@
   - Monitoramento/Controle de Energia
 
 
+
+
+
 # SIMEMAP - Milestones
-- 2010: Doutorado de MArcus
-- 2014: Abertura da empresa
-- ...
-- Marcus convida Alisson/Joaquim para se unir ao grupo de desenvolvimenro de placas
-- 2017: Instalação de X placas de teste (Porta, Janela, Condicionador de Ar) no IFTO 
-  - Estaca tecnologica de software: React.JS/PHP(Raw)/MySql
-- 2018: SIMEMAP vai para o cloud da AWS. Marcus convida Igor para dar suporte no desenvolvimento da tecnologia AWS Cloud.
-  - Encripting data trough X.509 certificate
-  - Utilização de monolito PHP/Laravel no back/front-end
-  - Using Flutter as APP Mobile software
-  - Utilização de MongoDB como recurso principal de logs Storage
-  - Utilização de AWS - API Gateway / AWS - Lambdas 
+- 2015: Início da pesquisa e testes sobre sensores e circuitos condicionadores de sinais
+- 2016: Primeiro protótipo funcional de monitoramento remoto de um sistema fotovoltaico.
+  - Selecionado no projeto "Fabin - Fábrica de projetos inovadores" do Conecta-IFB 2016.
+- 2017: Aprimoramento do protótipo
+  - Publicação de artigos científicos com resultados obtidos: Seel/2017, Semetro/2017
+  - Instalação de um lote piloto (10 unidades) no IFTO Campus Palmas
+- 2018: 
+  - Apresentação do protótipo na Campus Party em São Paulo/SP
+  - Software Stack inicial da plataforma: PHP/JavaScript/MySQL/Ionic em virtual remote server (OVH)
+  - Início da migração da plataforma Simemap para o cloud AWS e reestruturação da arquitetura:
+    - Devices conectados ao AWS IoT Core com certificados X.509
+    - Utilização de AWS - API Gateway / AWS - Lambdas
+    - Utilização de MongoDB como recurso principal de logs Storage
+- 2019
+  - Formalização (CNPJ) da empresa Simemap
+  - APP Mobile: Migração para Flutter
   - Utilização de AWS - RDS / AWS - Dynamo
-- 2019: Instalação de alguns dispositivos de teste no condomínio Diamante do Lago
-  - 2019: Instalação de 2 placas para teste na UFT
-- 2020:
-  - Implementação de LORA (SIMEMAP sends ebcripted data to the cloud trough LORA 1 year before AWS to deploy AWS-LORA )
-  - 
-- 2021:
-  - Implementação de AWS GreenGrass
-  - Marcus CEO recebe Certificado AWS Practioner
-- 2022:
-  - 
+  - Instalação de placas para teste piloto na UFT
+  - Pesquisa, projeto e prototipação de novos produtos de medição (vazão de agua, circuitos trifásicos) e automação (lâmpadas, motores, etc)
+- 2020
+  - Homologação do microprocessador ESP32-WROOM-32 para uso nos produtos Simemap
+  - Instalação de serviço de automação de portas em área comum de condomínio utilizando comunicação LoRa com criptografia AES128
+- 2021
+  - Expansão de testes em empresas clientes: Ceulp-Ulbra, Cardiopalmas, Pão da Hora, Condomínio Solar dos Mognos
+  - Obtenção de certificação AWS Cloud Practitioner (Marcus André - CTO)
+  - Prova de conceito baseada em AWS Greengrass V2 enviada a empresa européia
+  - Registro da Marca no INPI
+- 2022
+
 
 # SIMEMAP OUR TECH STACK
 
@@ -126,10 +135,10 @@
    - AWS FerrRTOS certificate, 
    - AWS Partner
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
+| Item   |      xxx      |  Total |
+|----------|:-------------:|-------:|
+| Componentes e placas |    Marcus André   | 70000 |
+| Homologação Anatel |  Marcus André | 12000 |
 | col 3 is | right-aligned |    $1 |
 
 
