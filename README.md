@@ -3,10 +3,22 @@
 
 # Aplicação IoT e tendências de mercado IoT no Brasil / Mundo
 
-## O que é IoT?
+## O que é IoT e qual o seu contexto?
 
-> The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. These devices range from ordinary household objects to sophisticated industrial tools. With more than 7 billion connected IoT devices today, experts are expecting this number to grow to 10 billion by 2020 and 22 billion by 2025.
+> The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet/Intranet. These devices range from ordinary household objects to sophisticated industrial tools. With more than 7 billion connected IoT devices today, experts are expecting this number to grow to 10 billion by 2020 and 22 billion by 2025.
+> A tecnologia IoT insere-se no contexto da quarta revolução industrial ou Industry 4.0 que por sua vez poderia ser resumida como um período temporal onde existe a maturação, convergência e aplicação prática de muitas technologias experimentadas ao longo das últimas décadas que estão revolucionando os processos de produção na economia e industrias modernas tornando-os mais eficientes, baratos e/ou até mesmo comercialmente possíves - inclusive na área da tecnologia bio-médica. Veja a seguir uma lista (não exaustiva) de algumas tecnologias que fazem parte do rol da Revolução Industrial 4.0: 
+> - Computação nas Nuvens e Processamento ou Computadores de Alta Performance (Cloud/HPC), 
+> - Inteligência Artifical e Machine Learning e Data Scince (AI/ML/DS), 
+> - Realidade Aumentada, Realidade Virtual, Realidade Extendida, Ralidade Mista e Metaverso (AR/VR/xR/mR/Metaverse), 
+> - Bioinformática, 
+> - Networks de alta performance - 5G/6G/...
+> - BioSensores e Wearebles
+> - Engenharia genética com edição de genes CRISPR-Cas9 e Biologia Sintética,
+> - Geolocalização,
+> - Redes Sociais/Profissinais,  
+> - Robótica, Drones
 
+> Vale notar que embora essas tecnologias parecam ser independentes, encapsuladas cada uma em seu prórpio universo, na verdade elas compartilham algo em comum - os Dados. Todas essas technologias ou são alimentadas por dados ou são fontes produtoras de dados que alimentam outras e que retro-alimentam o sistema. Os dados usam a tecnolgia IoT para trafegar dos dispositovos físicos para internet e vice-versa.  
 
 # SOME User Cases for IoT
 ### Energy
