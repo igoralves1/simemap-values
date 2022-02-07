@@ -18,6 +18,7 @@
 > - Redes Sociais/Profissinais,  
 > - Robótica, Drones
 > - Impressão 3D
+> - Security, Block-Chain
 
 > Vale notar que embora essas tecnologias parecam ser independentes, encapsuladas cada uma em seu prórpio universo, na verdade elas compartilham algo em comum - os Dados. Todas essas technologias ou são alimentadas por dados ou são fontes produtoras de dados que alimentam outras e que retro-alimentam o sistema. Os dados usam a tecnolgia IoT para trafegar dos dispositovos físicos para internet e vice-versa.  
 
