@@ -21,21 +21,32 @@
 > Vale notar que embora essas tecnologias parecam ser independentes, encapsuladas cada uma em seu prórpio universo, na verdade elas compartilham algo em comum - os Dados. Todas essas technologias ou são alimentadas por dados ou são fontes produtoras de dados que alimentam outras e que retro-alimentam o sistema. Os dados usam a tecnolgia IoT para trafegar dos dispositovos físicos para internet e vice-versa.  
 
 # SOME User Cases for IoT
+
 ### Energy
+- Monitoring/Tracking Energy consumption, production
 
 ### Industrial
 - Smart Factory
-  - Saves Energy
-- Motors repair and maintainance
-- Monitor vibrations/temperature/loads/...
+  - Energy monitoring
+  - Motors - predictive/preventive repair and maintainance, state monitoring - vibrations/temperature/loads/etc
+  - Building - 
+  - HR Wearables - IoT Clothing (Access control and security) 
+  - Monitoramento/Controle de ambientes - portas, janelas, condicionadores de ar, etc
+
+### Fashion Industry
+  - IoT Clothing
+    - Smart Workout
+  - Smart Watches
+  - Smart Jewelry
 
 ### Logistics
 - GPS tracking 
-- Food Chain
-- 
+- Food Chain suplly
+- Controle de frotas
+
 ### Health
 - Office automation
-- Smart devices
+- Hospitals/Offices Smart devices
 - 
 
 ### Smart Cities
@@ -45,11 +56,13 @@
 
 ### IoT - Smart Houses
 - [Smart Houses Saves Energy - Poverty Europe](https://www.youtube.com/watch?v=WGz6RgCMY9E)
+
 ### IoT - Smart Condos
+
 
 ### IoT - Security
 
-### IoT - Potenciais Clientes
+### IoT - Clientes Potenciais - Brasil
 - Setor Púbico:
   - Prefeituras: 5565 cidades
    - Monitoramento/Controle de Energia
@@ -57,17 +70,14 @@
     - Monitoramento de Frotas de Carros/Viaturas/Ambulância (SUS)
   - Segurança
   - Estabelecimentos de Ensino (Escolas, Universidades)
-  - 
+
+- Setor Privado:
 - Estabelecimentos de Ensino (Escolas, Universidades)
   - Monitoramento/Controle de Energia 
     - Condicionadores de ar
   - Monitoramento/Controle na Segurança
     - Controle e monitoramento de Portas, Janelas, vias de Acesso em geral
-  - Monitoramento/Controle de Energia
-
-
-
-
+ 
 
 # SIMEMAP - Milestones
 - 2015: Início da pesquisa e testes sobre sensores e circuitos condicionadores de sinais
