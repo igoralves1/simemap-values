@@ -137,9 +137,18 @@
 
 | Item   |      xxx      |  Total |
 |----------|:-------------:|-------:|
-| Componentes e placas |    Marcus André   | 70000 |
-| Homologação Anatel |  Marcus André | 12000 |
-| col 3 is | right-aligned |    $1 |
+| Componentes e placas |    Marcus André   | $70.000,00 |
+| Homologação Anatel |  Marcus André | $12.000,00 |
+| Concessão de registro |  Marcus André | $??,00 |
+| Concessão de registro |  Marcus André | xx000 |
+| Salário 2020-2021 |  Marcus André | xx000 |
+| Salário (Estágio) 20...-2022 |  Alisson | $??,00 |
+| Salário 2020-2021 |  Alisson | $??,00 |
+| Salário (Estágio) 2018-2022 |  Joaquim Flávio | $??,00 |
+| Salário 2018-2022 |  Igor Alves | $1.440.000,00 |
+| Total | ---  | $2.440.000,00 |
+
+
 
 
 
