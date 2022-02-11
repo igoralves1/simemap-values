@@ -6,8 +6,8 @@
 ## O que é IoT e qual o seu contexto?
 
 > The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet/Intranet. These devices range from ordinary household objects to sophisticated industrial tools. With more than 7 billion connected IoT devices today, experts are expecting this number to grow to 10 billion by 2020 and 22 billion by 2025.
-> A tecnologia IoT insere-se no contexto da quarta revolução industrial ou Industry 4.0 que por sua vez poderia ser resumida como um período temporal onde existe a maturação, convergência e aplicação prática de muitas technologias experimentadas ao longo das últimas décadas que estão revolucionando os processos de produção na economia e industrias modernas tornando-os mais eficientes, baratos e/ou até mesmo comercialmente possíves - inclusive na área da tecnologia bio-médica. Veja a seguir uma lista (não exaustiva) de algumas tecnologias que fazem parte do rol da Revolução Industrial 4.0: 
-> - Computação nas Nuvens e Processamento ou Computadores de Alta Performance (Cloud/HPC), 
+> A tecnologia IoT insere-se no contexto da quarta revolução industrial ou Industry 4.0 que por sua vez poderia ser resumida como um período temporal onde existe a maturação, convergência e aplicação prática de muitas technologias experimentadas ao longo das últimas décadas que estão revolucionando os processos de produção na economia e industrias modernas tornando-os mais eficientes, baratos e/ou até mesmo comercialmente possíves - inclusive na área da tecnologia biomédica. Veja a seguir uma lista (não exaustiva) de algumas tecnologias que fazem parte do rol da Revolução Industrial 4.0: 
+> - Computação na Nuvem e Computação de Alta Performance (Cloud/HPC), 
 > - Inteligência Artifical e Machine Learning e Data Scince (AI/ML/DS), 
 > - Realidade Aumentada, Realidade Virtual, Realidade Extendida, Ralidade Mista e Metaverso (AR/VR/xR/mR/Metaverse), 
 > - Bioinformática, 
@@ -87,18 +87,18 @@
   - Selecionado no projeto "Fabin - Fábrica de projetos inovadores" do Conecta-IFB 2016.
 - 2017: Aprimoramento do protótipo
   - Publicação de artigos científicos com resultados obtidos: Seel/2017, Semetro/2017
-  - Instalação de um lote piloto (10 unidades) no IFTO Campus Palmas
+  - Instalação de um lote piloto (10 unidades) para monitoramento de consumo de condicionadores de ar no IFTO Campus Palmas
 - 2018: 
   - Apresentação do protótipo na Campus Party em São Paulo/SP
   - Software Stack inicial da plataforma: PHP/JavaScript/MySQL/Ionic em virtual remote server (OVH)
   - Início da migração da plataforma Simemap para o cloud AWS e reestruturação da arquitetura:
     - Devices conectados ao AWS IoT Core com certificados X.509
-    - Utilização de AWS - API Gateway / AWS - Lambdas
+    - Utilização de recursos cloud AWS: API Gateway / AWS Lambdas
     - Utilização de MongoDB como recurso principal de logs Storage
 - 2019
   - Formalização (CNPJ) da empresa Simemap
   - APP Mobile: Migração para Flutter
-  - Utilização de AWS - RDS / AWS - Dynamo
+  - Ampliação dautilização de serviços AWS: Cognito / RDS / AWS - Dynamo
   - Instalação de placas para teste piloto na UFT
   - Pesquisa, projeto e prototipação de novos produtos de medição (vazão de agua, circuitos trifásicos) e automação (lâmpadas, motores, etc)
 - 2020
@@ -110,6 +110,8 @@
   - Prova de conceito baseada em AWS Greengrass V2 enviada a empresa européia
   - Registro da Marca no INPI
 - 2022
+  - Oferta e início do processo formal de contratação de serviços de monitoramento de consumo e automação de condicionadores de ar no IFTO (previsão: 800 unidades)
+  - Meta: oferta e início da prestação de serviço
 
 
 # SIMEMAP OUR TECH STACK
@@ -161,11 +163,11 @@
 
 | Item   |      xxx      |  Total |
 |----------|:-------------:|-------:|
-| Componentes e placas |    Marcus André   | $70.000,00 |
+| P&D: Componentes e placas |    Marcus André   | $70.000,00 |
 | Homologação Anatel |  Marcus André | $12.000,00 |
-| Concessão de registro |  Marcus André | $??,00 |
+| Criação / Manutenção da PJ |  Marcus André | $??,00 |
 | Concessão de registro |  Marcus André | xx000 |
-| Salário 2020-2021 |  Marcus André | xx000 |
+| P&D: Salário 2020-2021 |  Marcus André | xx000 |
 | Salário (Estágio) 20...-2022 |  Alisson | $??,00 |
 | Salário 2020-2021 |  Alisson | $??,00 |
 | Salário (Estágio) 2018-2022 |  Joaquim Flávio | $??,00 |
